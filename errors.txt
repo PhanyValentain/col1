@@ -1,0 +1,3 @@
+Неправильно: Adjust build script for Windows Store ARM version.
+в конце не надо ставить точку
+Правильно: Adjust build script for Windows Store ARM version
