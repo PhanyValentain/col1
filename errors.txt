@@ -1,3 +1,7 @@
 Неправильно: Adjust build script for Windows Store ARM version.
 в конце не надо ставить точку
 Правильно: Adjust build script for Windows Store ARM version
+
+Неправильно: Removed chats filters strip from forum layout.
+Надо писать заголовок в повелительном наклонении, а здесь оно изъявительное
+Правильно: Remove chats filters strip from forum layout.
